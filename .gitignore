@@ -1,0 +1,11 @@
+# Datos entregados por el profesor (se distribuyen por separado en el ZIP)
+datos/*.zip
+# Resultados locales generados (evitar conflictos de Git)
+intermedios/*.csv
+resultados/*.csv
+resultados/*.html
+resultados/*.txt
+resultados/graficos/*.png
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
